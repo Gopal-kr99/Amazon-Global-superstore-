@@ -12,4 +12,4 @@ Identified top customers and top products
 Analyzed profit by sub-category
 
 Output:-
-Dashboard with insights (add screenshots)
+Dashboard with insights (Amazon Global superstore Screenshot.png)
